@@ -22,11 +22,12 @@ export default {
   --rich-black-fogra-29: #0d1b2aff;
   --oxford-blue: #1b263bff;
   
+  background-color: var(--rich-black-fogra-29);
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: var(--gainsboro);
   margin-top: 60px;
 }
 </style>
